@@ -52,6 +52,14 @@ you can read on [this file](https://github.com/juarendra/STREAMPAD-QMK-VIA/blob/
 or you can read on this [web](https://www.keychron.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
 or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 
+## Preview Hardware
+<p align="center">
+    <img src="DOC/real1.jpeg" width="75%" height="75%">
+    <img src="DOC/real2.jpeg" width="75%" height="75%">
+    <img src="DOC/real3.jpeg" width="75%" height="75%">      
+    <img src="DOC/real4.jpeg" width="75%" height="75%">
+</p>
+
 
 ## Tutorial VIA Usage
 - https://docs.keeb.io/via
@@ -61,7 +69,7 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
 ## Pinout Hardware
-[Pinout Hardaware](https://github.com/juarendra/Ninepad-QMK-VIA/blob/main/HARDWARE/Ninepad_Pinout.pdf)
+[Pinout Hardaware](https://github.com/juarendra/BigNinepad-QMK-VIA-Macropad/blob/main/HARDWARE/BigNinepad_Pinout.pdf)
 
 ## HOW To FLASH MACROPAD 
 - Download QMK MYSYS, Install and setup QMK MYSYS, you can see this [tutorial](https://msys.qmk.fm/guide.html#next-steps)
